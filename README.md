@@ -216,11 +216,9 @@ save command, future console restarts will use this
 environment again
 Metasploit Documentation: https://docs.metasploit.com/
 
-msf6 > 
+msf6 > search exploit
 ```
-```bash
-msf6> search exploit
-```
+
 ```bash
 Matching Modules
 ================
