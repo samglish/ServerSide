@@ -5,3 +5,5 @@ Ethical Hacking- vulnerability scanning
 <hr>
 
 * Skipfish
+* Owasp Disrbuster
+* Webslayer
