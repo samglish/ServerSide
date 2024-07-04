@@ -179,4 +179,8 @@ python3 Explot.py 145.14.145.161:80
 ```
 ## Use metasploit to exploit
 <hr>
-run msfconsole in your terminal
+
+run `msfconsole` in your terminal
+```bash
+sudo msfconsole
+```
