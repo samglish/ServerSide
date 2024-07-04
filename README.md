@@ -9,3 +9,7 @@ Ethical Hacking- vulnerability scanning
 * Webslayer
 * Nmap
 * Nessus
+
+### The first scanner we will use
+Nmap
+<hr>
