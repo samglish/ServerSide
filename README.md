@@ -355,4 +355,4 @@ Lauch dirbuster
 ```bash
 dirbuster
 ```
-<img src="dirbuster.png" width="100%">
+<img src="dirbuster.png" width="90%">
