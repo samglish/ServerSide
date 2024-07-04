@@ -172,3 +172,8 @@ if __name__ == '__main__':
 ```bash
 python3 Explot.py
 ```
+Use: `python3 file.py ip:port`
+
+```bash
+python3 Explot.py 145.14.145.161:80
+```
