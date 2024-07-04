@@ -354,3 +354,6 @@ Lauch dirbuster
 dirbuster
 ```
 <img src="dirbuster.png" width="90%">
+complete the information.
+<img src="dirbuster2.png" width="90%">
+
