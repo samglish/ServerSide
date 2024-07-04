@@ -373,3 +373,4 @@ Launch
 ```bash
 skipfish -o /home/samglish/Desktop/SamRapport -S /usr/share/skipfish/dictionaries/minimal.wl http://samglishinc.000webhostapp.com
 ```
+<img src="skipfish.png" width="90%">
