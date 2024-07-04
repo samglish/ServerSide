@@ -357,3 +357,12 @@ dirbuster
 complete the information.
 <img src="dirbuster2.png" width="90%">
 
+# exploitation
+* 
+<img src="scan1.png" width="90%">
+
+* 
+<img src="scan2.png" width="90%">
+
+* 
+<img src="scan3.png" width="90%">
