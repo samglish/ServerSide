@@ -218,3 +218,6 @@ Metasploit Documentation: https://docs.metasploit.com/
 
 msf6 > 
 ```
+```bash
+msf6> search exploit
+```
