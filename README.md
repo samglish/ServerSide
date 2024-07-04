@@ -13,3 +13,6 @@ Ethical Hacking- vulnerability scanning
 ### The first scanner we will use
 Nmap
 <hr>
+```bash
+nmap -sV 145.14.145.161
+```
