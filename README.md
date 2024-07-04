@@ -30,5 +30,6 @@ PORT    STATE SERVICE   VERSION
 443/tcp open  ssl/https awex
 2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
 ```
-
+You can retrieve the services that are running or go directly to retrieve them from the database.
+<a href="https://www.exploit-db.com/">https://www.exploit-db.com/</a>
 
