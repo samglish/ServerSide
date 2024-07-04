@@ -221,3 +221,46 @@ msf6 >
 ```bash
 msf6> search exploit
 ```
+```bash
+Matching Modules
+================
+
+   #     Name                                                                               Disclosure Date  Rank       Check  Description
+   -     ----                                                                               ---------------  ----       -----  -----------
+   0     auxiliary/dos/http/cable_haunt_websocket_dos                                       2020-01-07       normal     No     "Cablehaunt" Cable Modem WebSocket DoS
+   1     exploit/windows/ftp/32bitftp_list_reply                                            2010-10-12       good       No     32bit FTP Client Stack Buffer Overflow
+   2     exploit/windows/tftp/threectftpsvc_long_mode                                       2006-11-27       great      No     3CTftpSvc TFTP Long Mode Buffer Overflow
+   3     exploit/windows/ftp/3cdaemon_ftp_user                                              2005-01-04       average    Yes    3Com 3CDaemon 2.0 FTP Username Overflow
+   4     exploit/windows/scada/igss9_misc                                                   2011-03-24       excellent  No     7-Technologies IGSS 9 Data Server/Collector Packet Handling Vulnerabilities
+   5     exploit/windows/scada/igss9_igssdataserver_rename                                  2011-03-24       normal     No     7-Technologies IGSS 9 IGSSdataServer .RMS Rename Buffer Overflow
+   6     exploit/windows/scada/igss9_igssdataserver_listall                                 2011-03-24       good       No     7-Technologies IGSS IGSSdataServer.exe Stack Buffer Overflow
+   7     exploit/windows/fileformat/a_pdf_wav_to_mp3                                        2010-08-17       normal     No     A-PDF WAV to MP3 v1.0.0 Buffer Overflow
+   8     auxiliary/scanner/http/a10networks_ax_directory_traversal                          2014-01-28       normal     No     A10 Networks AX Loadbalancer Directory Traversal
+   9     exploit/windows/ftp/aasync_list_reply                                              2010-10-12       good       No     AASync v2.2.1.0 (Win32) Stack Buffer Overflow (LIST)
+   10    exploit/windows/scada/abb_wserver_exec                                             2013-04-05       excellent  Yes    ABB MicroSCADA wserver.exe Remote Code Execution
+   11    exploit/windows/fileformat/abbs_amp_lst                                            2013-06-30       normal     No     ABBS Audio Media Player .LST Buffer Overflow
+   12    exploit/linux/local/abrt_raceabrt_priv_esc                                         2015-04-14       excellent  Yes    ABRT raceabrt Privilege Escalation
+   13    exploit/linux/local/abrt_sosreport_priv_esc                                        2015-11-23       excellent  Yes    ABRT sosreport Privilege Escalation
+   14    exploit/windows/fileformat/acdsee_fotoslate_string                                 2011-09-12       good       No     ACDSee FotoSlate PLP File id Parameter Overflow
+   15    exploit/windows/fileformat/acdsee_xpm                                              2007-11-23       good       No     ACDSee XPM File Section Buffer Overflow
+   16    exploit/linux/local/af_packet_chocobo_root_priv_esc                                2016-08-12       good       Yes    AF_PACKET chocobo_root Privilege Escalation
+   17    exploit/linux/local/af_packet_packet_set_ring_priv_esc                             2017-03-29       good       Yes    AF_PACKET packet_set_ring Privilege Escalation
+   18    exploit/windows/sip/aim_triton_cseq                                                2006-07-10       great      No     AIM Triton 1.0.4 CSeq Buffer Overflow
+   19    exploit/windows/misc/ais_esel_server_rce                                           2019-03-27       excellent  Yes    AIS logistics ESEL-Server Unauth SQL Injection RCE
+   20    exploit/aix/rpc_cmsd_opcode21                                                      2009-10-07       great      No     AIX Calendar Manager Service Daemon (rpc.cmsd) Opcode 21 Buffer Overflow
+   21    exploit/windows/misc/allmediaserver_bof                                            2012-07-04       normal     No     ALLMediaServer 0.8 Buffer Overflow
+   22    exploit/windows/fileformat/allplayer_m3u_bof                                       2013-10-09       normal     No     ALLPlayer M3U Buffer Overflow
+   23    exploit/windows/fileformat/aol_phobos_bof                                          2010-01-20       average    No     AOL 9.5 Phobos.Playlist Import() Stack-based Buffer Overflow
+   24    exploit/windows/fileformat/aol_desktop_linktag                                     2011-01-31       normal     No     AOL Desktop 9.6 RTX Buffer Overflow
+   25    exploit/windows/browser/aim_goaway                                                 2004-08-09       great      No     AOL Instant Messenger goaway Overflow
+   26    exploit/windows/browser/aol_ampx_convertfile                                       2009-05-19       normal     No     AOL Radio AmpX ActiveX Control ConvertFile() Buffer Overflow
+   27    exploit/linux/local/apt_package_manager_persistence                                1999-03-09       excellent  No     APT Package Manager Persistence
+   28    exploit/windows/browser/asus_net4switch_ipswcom                                    2012-02-17       normal     No     ASUS Net4Switch ipswcom.dll ActiveX Stack Buffer Overflow
+   29    exploit/linux/misc/asus_infosvr_auth_bypass_exec                                   2015-01-04       excellent  No     ASUS infosvr Auth Bypass Command Execution
+   30    exploit/linux/http/atutor_filemanager_traversal                                    2016-03-01       excellent  Yes    ATutor 2.2.1 Directory Traversal / Remote Code Execution
+   31    exploit/multi/http/atutor_sqli                                                     2016-03-01       excellent  Yes    ATutor 2.2.1 SQL Injection / Remote Code Execution
+   32    exploit/multi/http/atutor_upload_traversal                                         2019-05-17       excellent  Yes    ATutor 2.2.4 - Directory Traversal / Remote Code Execution,
+   33    exploit/unix/webapp/awstatstotals_multisort                                        2008-08-26       excellent  Yes    AWStats Totals multisort Remote Command Execution
+   34    exploit/unix/webapp/awstats_configdir_exec                                         2005-01-15       excellent  Yes    AWStats configdir Remote Command Execution
+   35    exploit/unix/webapp/awstats_migrate_exec                              
+   ```
