@@ -366,3 +366,10 @@ complete the information.
 
 * 
 <img src="scan3.png" width="90%">
+
+## Use skipfish
+Launch
+
+```bash
+skipfish -o /home/samglish/Desktop/SamRapport -S /usr/share/skipfish/dictionaries/minimal.wl http://samglishinc.000webhostapp.com
+```
