@@ -7,3 +7,5 @@ Ethical Hacking- vulnerability scanning
 * Skipfish
 * Owasp Disrbuster
 * Webslayer
+* Nmap
+* Nessus
