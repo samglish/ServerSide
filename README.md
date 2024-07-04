@@ -168,3 +168,7 @@ if __name__ == '__main__':
     main()
             
 ```
+## Let's to run file
+```bash
+python3 Explot.py
+```
