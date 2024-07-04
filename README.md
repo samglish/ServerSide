@@ -350,5 +350,9 @@ Interact with a module by name or index. For example info 2522, use 2522 or use 
    ```
 ## Use Owasp dirbuster
 <hr>
-dirbuster
+Lauch dirbuster
 
+```bash
+dirbuster
+```
+<img src="dirbuster.png" width="100%">
