@@ -177,3 +177,6 @@ Use: `python3 file.py ip:port`
 ```bash
 python3 Explot.py 145.14.145.161:80
 ```
+## Use metasploit to exploit
+<hr>
+run msfconsole in your terminal
