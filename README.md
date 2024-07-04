@@ -10,10 +10,12 @@ Ethical Hacking- vulnerability scanning
 * Nmap
 * Nessus
 
-# The first scanner we will use
+### The first scanner we will use
 Nmap
 <hr>
+to see the services running, launch nmap.
 
 ```bash
 nmap -sV 145.14.145.161
 ```
+
