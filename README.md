@@ -374,3 +374,7 @@ Launch
 skipfish -o /home/samglish/Desktop/SamRapport -S /usr/share/skipfish/dictionaries/minimal.wl http://samglishinc.000webhostapp.com
 ```
 <img src="skipfish.png" width="90%">
+Go to SamRapport
+<img src="dirbuster3.png" width="90%">
+Open index.html in your browser
+<img src="dirbuster3.png" width="90%">
