@@ -377,4 +377,4 @@ skipfish -o /home/samglish/Desktop/SamRapport -S /usr/share/skipfish/dictionarie
 Go to SamRapport
 <img src="dirbuster3.png" width="90%">
 Open index.html in your browser
-<img src="dirbuster3.png" width="90%">
+<img src="dirbuster4.png" width="90%">
